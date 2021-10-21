@@ -144,7 +144,7 @@ var NAVTREEINDEX =
 "db/d9a/classuint128__t.html#abfc6a8765039cacc829a5cd386b5a066",
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#ac6f619a1605cb46196360889fff4529e",
 "df/d06/decimal__to__binary_8cpp.html",
-"globals_s.html"
+"globals_q.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
