@@ -31,6 +31,6 @@ var namespacegraph =
     [ "explore", "df/dce/namespacegraph.html#a3ae80bc4c6a79d041b4f3a6589eb7fb8", null ],
     [ "explore", "df/dce/namespacegraph.html#a64c1db5aad7502c6f08e4652f6edd463", null ],
     [ "getConnectedComponents", "df/dce/namespacegraph.html#a83ab16e96cec644109a58dfc9329bc2b", null ],
-    [ "isBipartite", "df/dce/namespacegraph.html#a73914551659977c862dba2504ae77661", null ],
+    [ "isBipartite", "df/dce/namespacegraph.html#a84b0551489c613a681cc83b34450da4b", null ],
     [ "TravellingSalesmanProblem", "df/dce/namespacegraph.html#ab7706341d006e20d1ae58274187a3346", null ]
 ];
