@@ -39,7 +39,7 @@ var searchData=
   ['check_5fprime_2ecpp_36',['check_prime.cpp',['../db/d93/check__prime_8cpp.html',1,'']]],
   ['check_5fsize_5fmatch_37',['check_size_match',['../d6/d30/classmachine__learning_1_1adaline.html#ac8a9c2aaaa63b0f27ea176857e1e7d56',1,'machine_learning::adaline']]],
   ['check_5ftermination_38',['check_termination',['../da/df2/durand__kerner__roots_8cpp.html#a024b8bc4755863315456d573a6732377',1,'durand_kerner_roots.cpp']]],
-  ['checkbipartite_39',['checkBipartite',['../df/dce/namespacegraph.html#a5e6466c7644b71631fd93eb2fee71544',1,'graph']]],
+  ['checkbipartite_39',['checkBipartite',['../df/dce/namespacegraph.html#a14eab2f607e0a165baf6129aa6d12530',1,'graph']]],
   ['chi_5fsquared_5fdistribution_40',['chi_squared_distribution',['http://en.cppreference.com/w/cpp/numeric/random/chi_squared_distribution/chi_squared_distribution.html',0,'std::chi_squared_distribution::chi_squared_distribution()'],['http://en.cppreference.com/w/cpp/numeric/random/chi_squared_distribution.html',0,'std::chi_squared_distribution']]],
   ['children_41',['children',['../d5/d12/structdata__structures_1_1trie__using__hashmap_1_1_trie_1_1_node.html#a08212cdc99164b59da91b81f45e2f88e',1,'data_structures::trie_using_hashmap::Trie::Node::children()'],['../dd/d40/classdata__structures_1_1tree__234_1_1_node.html#ad5d6b6ce5fab21ccc88c6bf3153eee5d',1,'data_structures::tree_234::Node::children()']]],
   ['cin_42',['cin',['http://en.cppreference.com/w/cpp/io/basic_istream.html',0,'std']]],
