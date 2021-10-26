@@ -382,7 +382,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    {</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        int64_t u = q.front();</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        q.pop();</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i=0;i&lt;<a class="code hl_namespace" href="../../df/dce/namespacegraph.html">graph</a>[u].size();i++)</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keywordflow">for</span>(uint64_t i=0;i&lt;<a class="code hl_namespace" href="../../df/dce/namespacegraph.html">graph</a>[u].size();i++)</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        {</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>            int64_t v = <a class="code hl_namespace" href="../../df/dce/namespacegraph.html">graph</a>[u][i];    <span class="comment">///&lt; stores the neighbour of the current node</span></div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            <span class="keywordflow">if</span>(!visited[v])             <span class="comment">/// check whether the neighbour node is travelled already or not</span></div>
@@ -753,7 +753,7 @@ Here is the call graph for this function:</div>
 <div class="fragment"><div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>{</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    <a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int64_t&gt;</a> visited(<a class="code hl_namespace" href="../../df/dce/namespacegraph.html">graph</a>.size()); <span class="comment">///&lt; stores boolean values which signify whether that node had been visited or not</span></div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>    </div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i=0;i&lt;<a class="code hl_namespace" href="../../df/dce/namespacegraph.html">graph</a>.size();i++)</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    <span class="keywordflow">for</span>(uint64_t i=0;i&lt;<a class="code hl_namespace" href="../../df/dce/namespacegraph.html">graph</a>.size();i++)</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    {    </div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        <span class="keywordflow">if</span>(!visited[i]) <span class="comment">/// if the current node is not visited then check whether the sub-graph of that node is a bipartite or not</span></div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        {</div>
