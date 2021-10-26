@@ -27,7 +27,7 @@ var searchData=
   ['check_5fif_5fequal_24',['check_if_equal',['../d9/d03/namespacestring__search.html#aebe07cea289a13142503d98be7df11fd',1,'string_search']]],
   ['check_5fsize_5fmatch_25',['check_size_match',['../d6/d30/classmachine__learning_1_1adaline.html#ac8a9c2aaaa63b0f27ea176857e1e7d56',1,'machine_learning::adaline']]],
   ['check_5ftermination_26',['check_termination',['../da/df2/durand__kerner__roots_8cpp.html#a024b8bc4755863315456d573a6732377',1,'durand_kerner_roots.cpp']]],
-  ['checkbipartite_27',['checkBipartite',['../df/dce/namespacegraph.html#a14eab2f607e0a165baf6129aa6d12530',1,'graph']]],
+  ['checkbipartite_27',['checkBipartite',['../df/dce/namespacegraph.html#a8e1b547cd407c0774e63f0dc95cda9e7',1,'graph']]],
   ['chi_5fsquared_5fdistribution_28',['chi_squared_distribution',['http://en.cppreference.com/w/cpp/numeric/random/chi_squared_distribution/chi_squared_distribution.html',0,'std::chi_squared_distribution']]],
   ['circle_29',['circle',['../d0/d01/smallest__circle_8cpp.html#a0b0676df8e4da7a08c7ccaecea344903',1,'smallest_circle.cpp']]],
   ['circle_5farea_30',['circle_area',['../dd/d47/namespacemath.html#a40e36c67da78d2131408c57ee091ad75',1,'math']]],

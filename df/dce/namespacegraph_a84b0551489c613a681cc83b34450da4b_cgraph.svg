@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../df/dce/namespacegraph.html#a14eab2f607e0a165baf6129aa6d12530" target="_top" xlink:title="function to check whether the passed graph is bipartite or not">
+<g id="a_node2"><a xlink:href="../../df/dce/namespacegraph.html#a8e1b547cd407c0774e63f0dc95cda9e7" target="_top" xlink:title="function to check whether the passed graph is bipartite or not">
 <polygon fill="white" stroke="black" points="128,-0.5 128,-19.5 238,-19.5 238,-0.5 128,-0.5"/>
 <text text-anchor="middle" x="183" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">graph::checkBipartite</text>
 </a>
